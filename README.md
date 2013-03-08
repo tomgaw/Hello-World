@@ -1,3 +1,3 @@
 hello world
 test
-check check
+* check check
